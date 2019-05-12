@@ -282,6 +282,10 @@ list-style: none;
 	max-width: 100% !important;
 }
 
+.caja_sonido{
+	display: flex;
+	justify-content: center;
+}
 /*FIN CSS CONTACTO*/
 
 /*INICIO CSS TUTORIALES*/
