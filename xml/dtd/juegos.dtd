@@ -1,0 +1,26 @@
+<!ELEMENT juegos (juego+)>
+<!ELEMENT juego (imagen, nombre, descripcion, anyo, minimo_jugadores, maximo_jugadores, tiempo_minimo, tiempo_maximo, edad_minima)>
+<!ATTLIST juego
+          id CDATA #REQUIRED
+          type CDATA #REQUIRED>
+<!ELEMENT imagen (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT anyo (#PCDATA)>
+<!ATTLIST anyo
+          value CDATA #REQUIRED>
+<!ELEMENT minimo_jugadores (#PCDATA)>
+<!ATTLIST minimo_jugadores
+          value CDATA #REQUIRED>
+<!ELEMENT maximo_jugadores (#PCDATA)>
+<!ATTLIST maximo_jugadores
+          value CDATA #REQUIRED>
+<!ELEMENT tiempo_minimo (#PCDATA)>
+<!ATTLIST tiempo_minimo
+          value CDATA #REQUIRED>
+<!ELEMENT tiempo_maximo (#PCDATA)>
+<!ATTLIST tiempo_maximo
+          value CDATA #REQUIRED>
+<!ELEMENT edad_minima (#PCDATA)>
+<!ATTLIST edad_minima
+          value CDATA #REQUIRED>

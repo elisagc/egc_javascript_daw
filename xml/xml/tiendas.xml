@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tiendas SYSTEM "../dtd/tiendas.dtd">
+<tiendas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/tiendas.xsd">
+
+  <tienda>
+    <nombre>Planeton Games</nombre>
+    <telefono> 672 403 198</telefono>
+    <web>https://www.planetongames.com/es/</web>
+  </tienda>
+  
+   <tienda>
+    <nombre>GoblinTrader</nombre>
+    <direccion>C/ Enrique Fuentes, 16 28026 Madrid </direccion>
+    <direccion>C/ Marqués de Lema, 7 28003 Madrid </direccion>
+    <direccion>Conde de Altea, 4 46005 Valencia </direccion>
+    <direccion>	C/ Girona, 25 08010 Barcelona </direccion>
+    <telefono>91 081 0870</telefono>
+    <web>https://www.goblintrader.es/</web>
+  </tienda>
+  
+   <tienda>
+    <nombre>Dungeon Marvels</nombre>
+    <direccion>Calle Olzinelles, 49 Barcelona, 08014</direccion>
+    <telefono>93 173 21 91</telefono>
+    <web>https://dungeonmarvels.com/</web>
+  </tienda>
+  
+   <tienda>
+    <nombre>Zacatrus</nombre>
+    <direccion>Calle Luna, 6 28004 Madrid</direccion>
+    <telefono>915 23 17 67</telefono>
+    <web>http://atlanticajuegos.com/</web>
+  </tienda>
+  
+</tiendas>

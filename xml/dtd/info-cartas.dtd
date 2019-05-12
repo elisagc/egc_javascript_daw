@@ -1,0 +1,10 @@
+<!ELEMENT juegos (juego+)>
+<!ELEMENT juego (anyo, duracion, edad, id, maxjugadores, minjugadores, nombre, portada)>
+<!ELEMENT anyo (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT maxjugadores (#PCDATA)>
+<!ELEMENT minjugadores (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT portada (#PCDATA)>

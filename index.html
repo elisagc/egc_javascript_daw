@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Magic Cards</title>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link href="https://fonts.googleapis.com/css?family=Nunito|Roboto" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+
+</head>
+
+<body>
+
+<nav>	
+	 <div class="logo">
+		 <a href="index.html"><img src="img/logo.png" class="imglogo"></a>
+	</div>
+	<div class="menu">
+		<ul>
+			<li><a href="index.html">Elige tu carta</a></li>
+			<li><a href="xml/juegos.xml">Los más jugados</a></li>
+			<li><a href="html/tutoriales.html">Tutoriales</a></li>
+			<li><a href="html/tiendas.html">Dónde comprar</a></li>
+			<li><a href="html/contacto.html">Contacto</a></li>
+		</ul>
+	</div>		
+</nav>
+
+<section id="section">
+
+	<div id="caja-principal">
+		<div class="caja-carta">
+			<img class="card-img" id="card1" src="" onclick="buscarID(this)">
+		</div>
+		<div class="caja-carta">
+			<img class="card-img" id="card2" src="" onclick="buscarID(this)">
+		</div>
+		<div class="caja-carta">
+			<img class="card-img" id="card3" src="" onclick="buscarID(this)">
+		</div>
+		<div class="caja-carta">
+			<img class="card-img" id="card4" src="" onclick="buscarID(this)">
+		</div>
+	</div>
+
+	<div id="caja-iconos">
+		<img src="img/icon1.png" class="icono">
+		<img src="img/icon2.png" class="icono">
+		<img src="img/icon3.png" class="icono">
+		<img src="img/icon4.png" class="icono">
+		<img src="img/icon5.png" class="icono">
+		<img src="img/icon6.png" class="icono">
+		<img src="img/icon8.png" class="icono">	
+	</div>
+
+	<div id="mensaje-bienvenida">
+		<h1>¡Bienvenid@s a Magic Card!</h1>
+		<p>¿Quieres iniciarte en los juegos de mesa alternativos y no sabes por dónde empezar?</p>
+		<p>Déjate llevar por tu intuición, haz click en el icono inferior y elige la carta que más te guste.</p>
+		<p>¡Para saber más solo debes escoger tu favorita!</p>
+		<!--<input type="button" id="boton-barajar2">	-->
+	</div>
+
+	<div class="caja-boton">
+		<button id="boton2"><a href="#" class="boton-barajar"></a></button>
+	</div>
+	
+</section>
+
+<!--A PARTIR DE AQUÍ EMPIEZA LA CAJA FLOTANTE (MODAL) -->
+
+<!-- Modal -->
+<div id="miModal" class="modal">
+
+		<!-- Contenido del Modal -->
+	<div class="modal-contenido">
+		<div>
+			<span class="close">&times;</span>
+		</div>
+		<div class="modal-contenido-centro">
+			<div id="foto-modal"></div>
+			<div>
+				<p class="info nombre-juego"></p>
+				<p class="info"></p>
+				<p class="info"></p>
+				<p class="info"></p>
+				<p class="info"></p>
+			</div>
+		</div>
+	</div>
+	 
+</div>
+
+<script type="text/javascript" src="js/json-index.js"></script>
+<script type="text/javascript" src="js/js-index.js"></script>
+
+</body>
+</html>

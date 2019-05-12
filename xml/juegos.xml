@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="juegos.xsl"?>
+
+<!DOCTYPE juegos SYSTEM "dtd/juegos.dtd">
+
+<juegos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema/juegos.xsd">
+
+	<juego type="boardgame" id="1">
+		<imagen>https://cf.geekdo-images.com/original/img/IEzLo1POAmIfu9lyOvXsQxtVfB0=/0x0/pic3584961.jpg</imagen>
+		<nombre>10 Minute Heist</nombre>
+		<descripcion>The Wizard's Tower, players take turns moving their pawns from room to room stealing items. Players compete for most paintings, artifacts, jewels, and fossils. Players also compete for the most items valued at 3, 4, and 5. The first player to exit receives bonus points, so it's a race to the finish while simultaneously trying to get sets of items to maximize points. Be careful not to accumulate too many cursed items because they're worth negative points at the end of the game; </descripcion>
+		<anyo value="2017"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="5"/>
+		<tiempo_minimo value="10"/>
+		<tiempo_maximo value="10"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="2">
+		<imagen>https://cf.geekdo-images.com/original/img/M6wL1YFgW-PsdtJ328m2QiJf1K8=/0x0/pic3376065.jpg</imagen>
+		<nombre>7 Wonders Duel</nombre>
+		<descripcion>In many ways 7 Wonders Duel resembles its parent game 7 Wonders as over three ages players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders; What's different about 7 Wonders Duel is that, as the title suggests, the game is solely for two players, with the players not drafting cards simultaneously from hands of cards, but from a display of face-down and face-up cards arranged at the start of a round. A player can take a card only if it's not covered by any others, so timing comes into play as well as bonus moves that allow you to take a second card immediately. As in the original game, each card that you acquire can be built, discarded for coins, or used to construct a wonder; Each player starts with four wonder cards, and the construction of a wonder provides its owner with a special ability. Only seven wonders can be built, though, so one player will end up short; Players can purchase resources at any time from the bank, or they can gain cards during the game that provide them with resources for future building; as you acquire resources, the cost for those particular resources increases for your opponent, representing your dominance in this area; A player can win 7 Wonders Duel in one of three ways: each time you acquire a military card, you advance the military marker toward your opponent's capital, giving you a bonus at certain positions; if you reach the opponent's capital, you win the game immediately; similarly, if you acquire any six of seven different scientific symbols, you achieve scientific dominance and win immediately; if none of these situations occurs, then the player with the most points at the end of the game wins; </descripcion>
+		<anyo value="2015"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="2"/>
+		<tiempo_minimo value="30"/>
+		<tiempo_maximo value="30"/>
+		<edad_minima value="10"/>
+	</juego>
+
+	<juego type="boardgame" id="3">
+		<imagen>https://cf.geekdo-images.com/original/img/AG4FQZuzzueBT6t31kypY8jTRus=/0x0/pic2398773.jpg</imagen>
+		<nombre>Above and Below</nombre>
+		<descripcion>Your last village was ransacked by barbarians. You barely had time to pick up the baby and your favorite fishing pole before they started the burning and pillaging. You wandered over a cruel desert, braved frozen peaks, and even paddled a log across a rough sea, kicking at the sharks whenever they got too close, the baby strapped tightly to your back; Then you found it! The perfect place to make your new home. But as soon as you had the first hut built, you discovered a vast network of caverns underground, brimming with shiny treasures, rare resources, and untold adventure. How could you limit your new village to the surface? You immediately start organizing expeditions and building houses underground as well as on the surface; With any luck, you'll build a village even stronger than your last-- strong enough, even, to turn away the barbarians the next time they come knocking; Above and Below is a mashup of town-building and storytelling where you and up to three friends compete to build the best village above and below ground. In the game, you send your villagers to perform jobs like exploring the cave, harvesting resources, and constructing houses. Each villager has unique skills and abilities, and you must decide how to best use them. You have your own personal village board, and you slide the villagers on this board to various areas to indicate that they've been given jobs to do. Will you send Hanna along on the expedition to the cave? Or should she instead spend her time teaching important skills to one of the young villagers; A great cavern lies below the surface, ready for you to explore-- this is where the storytelling comes in. When you send a group of villagers to explore the depths, one of your friends reads what happens to you from a book of paragraphs. You'll be given a choice of how to react, and a lot will depend on which villagers you brought on the expedition, and who you're willing to sacrifice to succeed. The book of paragraphs is packed with encounters of amazing adventure, randomly chosen each time you visit the cavern; At the end of the game, the player with the most well-developed village wins; The Kickstarter version of the game included the following items which are not found in the Retail version;      Villager Tool token;      Lost Villager;      Swamp Villager;      Exclusive Stretch goals;      Creature Villager;      Quest Token;      Underforest Tokens and PDF story boo;      Desert Labyrinth tokens and PDF story book;      Wooden Good; This collection of items can be found in Above and Below: Expanded Edition exclusive; </descripcion>
+		<anyo value="2015"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="90"/>
+		<tiempo_maximo value="90"/>
+		<edad_minima value="13"/>
+	</juego>
+
+	<juego type="boardgame" id="4">
+		<imagen>https://cf.geekdo-images.com/original/img/lB5mc2bDPP2fNjvnBJLkSQvM2ps=/0x0/pic2305263.jpg</imagen>
+		<nombre>Arcadia Quest</nombre>
+		<descripcion>In Arcadia Quest, players lead guilds of intrepid heroes on an epic campaign to dethrone the vampire lord and reclaim the mighty Arcadia for their own. But only one guild may lead in the end, so players must battle against each other as well as against the monstrous occupying forces; Arcadia Quest is a campaign-based game for 2 to 4 players, where each player controls a guild of three unique heroes, facing off against the other players and the various monsters controlled by the game. Players need to accomplish a series of quests in order to win each scenario and choose where to go next in the campaign; Players are able to choose the path their campaign takes, navigating through six out of eleven available scenarios, so each time the campaign is played it can have a different configuration of scenarios. As the campaign progresses, the heroes are able to acquire new weapons, equipment and abilities that give them powerful options to tackle the obstacles ahead. Furthermore, by fulfilling specific quests in a scenario, players unlock exclusive features in subsequent scenarios; </descripcion>
+		<anyo value="2014"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="60"/>
+		<tiempo_maximo value="60"/>
+		<edad_minima value="13"/>
+	</juego>
+
+	<juego type="boardgame" id="5">
+		<imagen>https://cf.geekdo-images.com/original/img/EQ0Kl-bH9RCI5aJWVLnAlAfo00E=/0x0/pic3122349.jpg</imagen>
+		<nombre>Arkham Horror: LCG</nombre>
+		<descripcion>Description from the publisher; Something evil stirs in Arkham, and only you can stop it. Blurring the traditional lines between roleplaying and card game experiences, Arkham Horror: The Card Game is a Living Card Game of Lovecraftian mystery, monsters, and madness; In the game, you and your friend (or up to three friends with two Core Sets) become characters within the quiet New England town of Arkham. You have your talents, sure, but you also have your flaws. Perhaps you've dabbled a little too much in the writings of the Necronomicon, and its words continue to haunt you. Perhaps you feel compelled to cover up any signs of otherworldly evils, hampering your own investigations in order to protect the quiet confidence of the greater population. Perhaps you'll be scarred by your encounters with a ghoulish cult; No matter what compels you, no matter what haunts you, you'll find both your strengths and weaknesses reflected in your custom deck of cards, and these cards will be your resources as you work with your friends to unravel the world's most terrifying mysteries; Each of your adventures in Arkham Horror LCG carries you deeper into mystery. You'll find cultists and foul rituals. You'll find haunted houses and strange creatures. And you may find signs of the Ancient Ones straining against the barriers to our world..; The basic mode of play in Arkham LCG is not the adventure, but the campaign. You might be scarred by your adventures, your sanity may be strained, and you may alter Arkham's landscape, burning buildings to the ground. All your choices and actions have consequences that reach far beyond the immediate resolution of the scenario at hand &amp;mdash; and your actions may earn you valuable experience with which you can better prepare yourself for the adventures that still lie before you; </descripcion>
+		<anyo value="2016"/>
+		<minimo_jugadores value="1"/>
+		<maximo_jugadores value="2"/>
+		<tiempo_minimo value="60"/>
+		<tiempo_maximo value="120"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="6">
+		<imagen>https://cf.geekdo-images.com/original/img/bQLvhHye5_qR4ohxAWRqOnADXdg=/0x0/pic1854807.jpg</imagen>
+		<nombre>Battlelore</nombre>
+		<descripcion>Game descripcion from the publisher; Prepare for fantasy battles beyond your wildest imagination with the onslaught of BattleLore Second Edition. Set in the fantasy realm of Terrinoth, BattleLore Second Edition is a two-player board game focused on squad-based battles between the hardy defenses of the Daqan Lords garrison in Nordgard Castle and the unleashed ferocity of the demon-worshipping Uthuk Y&amp;rsquo;llan. You must strategically command your troops and use the power of lore to tip your battles in your favor; In every game, you will create new maps and scenarios, before mustering a new army for each game, so you can tailor your army to suit your favored play style. Command armies of fearsome warriors and deadly creatures, and lead them against the enemy in this intense game of warfare and military strategy. By seizing victory points from objectives on the battlefield and by eliminating enemy units, a skilled commander can raise his banners as the victor over the borderlands of Terrinoth; BattleLore Second Edition comes with a game board, ninety-two detailed figures, forty-three map overlay pieces, more than one-hundred fifty cards, rules, four custom dice, and everything else you need to win the borderlands of Terrinoth; </descripcion>
+		<anyo value="2013"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="2"/>
+		<tiempo_minimo value="45"/>
+		<tiempo_maximo value="90"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="7">
+		<imagen>https://cf.geekdo-images.com/original/img/933bZ7m776Clv0y3s6crkMH5KGI=/0x0/pic4025667.jpg</imagen>
+		<nombre>Black Orchestra</nombre>
+		<descripcion>As Hitler's grasp on Germany tightens and his maniacal fervor is unmasked, men from the highest levels of the Reich begin to plot his assassination. As the clock ticks and Hitler's ambitions grow, these daring few must build their strength and prepare for the perfect moment to strike. The Gestapo hound their trail, calling these conspirators &amp;quot;Schwarze Kapelle&amp;quot;, the Black Orchestra. Will this band of daring patriots save their country from utter ruin before it is too late; Black Orchestra begins with each player choosing a historic figure involved in the conspiracy against Hitler. In this dark and dangerous pursuit, motivation is perhaps your greatest weapon. If you can stay true to your convictions in the face of overwhelming threat and inspire your comrades, then you will be able to use your special ability, attempt plots, and even become zealous (necessary for some extremely daring plots); But every move you make may also increase the suspicion of the authorities. The Gestapo will make routine sweeps, and any players with high suspicion will be arrested and interrogated (possibly resulting in other players being arrested). If you are all arrested or if the Gestapo finds your secret papers, you lose. And the suspicion placed on each conspirator will increase the chances their plots are detected; On a turn, players may take three actions, such as moving, searching for an juego, or drawing a card; or, at the cost of one action per die, roll the dice in an attempt to gain even more actions &amp;mdash; at the risk of attracting the suspicion of the gestapo. This dice rolling &amp;quot;Conspire&amp;quot; action allows players to make bold moves when most needed; After the actions have been taken, an event card is drawn. The game is played over seven stages of World War 2, represented by seven stacks of event cards. These cards walk you through the events of WWII in a roughly (but not strictly) chronological order. New stages open up new areas of the board, cause Hitler and his deputies to interact with the Conspirators, and present various opportunities or threats. During the final stage, many board spaces become off-limits, as the Allies move closer to Germany; To win, players must collect a plot card and fulfill all necessary requirements listed (such as having Hitler be in a certain space and possessing certain items--detonator &amp;amp; fuse, etc.). The active player may then attempt the plot by rolling the indicated dice, including all additional modifiers and helpful Action cards. The total of number of &amp;quot;Target&amp;quot; symbols needed to kill Hitler is based on Hitler's military support, but a Conspirator's security level decides if any &amp;quot;Eagles&amp;quot; rolled will see them detected, and foil the plot regardless. Players must consider their ability to successfully complete a plot and the relative suspicion levels of the different Conspirators involved; Players will need to work together and agree on the wisest course of action, as well as have a little luck, to succeed. The phenomenon of one player dominating the game because of its cooperative nature is mitigated by the fact that there are no certainties, and often a player will need to make a bold or reckless move to keep the conspiracy alive. Cool heads often prevail, but play it too cool and you may miss your chance. The co-operative dynamic gets really interesting if a player is ever arrested, and fails to resist interrogation, then they will need to make a big decision all by themselves, without revealing their options to the group. No one player can guarantee success. It is hoped that players will have tense conversations similar to those had by the real conspirators and enjoy a truly unique historical experience; </descripcion>
+		<anyo value="2016"/>
+		<minimo_jugadores value="1"/>
+		<maximo_jugadores value="5"/>
+		<tiempo_minimo value="90"/>
+		<tiempo_maximo value="90"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="8">
+		<imagen>https://cf.geekdo-images.com/original/img/zF_nXnAc7UM4G7u0QYDIyWTAoZU=/0x0/pic1222746.jpg</imagen>
+		<nombre>Blood Bowl: Team Manager</nombre>
+		<descripcion>Game descripcion from the publisher; Blood Bowl: Team Manager - The Card Game is a bone-breaking, breathtaking standalone card game of violence and outright cheating for two to four players. Chaos, Dwarf, Wood Elf, Human, Orc, and Skaven teams compete against each other over the course of a brutal season. Customize your team by drafting Star Players, hiring staff, upgrading facilities, and cheating like mad. Lead your gang of misfits and miscreants to glory over your rivals all to become Spike! Magazine's Manager of the Year; Once a manager has chosen one of the six teams, he has five weeks to groom them into the best in the league, culminating with the Blood Bowl tournombrent. He does this by competing at highlights, collecting payouts, upgrading his personnel, and drafting Star Players; Managers begin the season with a starting team deck full of basic scrub players. These players are none too bright and have limited talents, but a clever manager can play to their strengths by carefully positioning them to excel on the pitch; Is your team ready to compete against other teams in head-to-head highlights? Highlights are the randomly determined matchups over which players compete. The more highlights a team wins, the more it improves and the more fans it accumulates; The season culminates with the Blood Bowl tournombrent. After the Blood Bowl, the season ends. Players then tally up their total fans and the manager with the most fans wins the game; </descripcion>
+		<anyo value="2011"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="90"/>
+		<tiempo_maximo value="90"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="9">
+		<imagen>https://cf.geekdo-images.com/original/img/A-0yDJkve0avEicYQ4HoNO-HkK8=/0x0/pic2419375.jpg</imagen>
+		<nombre >Catan</nombre>
+		<descripcion>In Catan (formerly The Settlers of Catan), players try to be the dominant force on the island of Catan by building settlements, cities, and roads. On each turn dice are rolled to determine what resources the island produces. Players collect these resources (cards)&amp;mdash;wood, grain, brick, sheep, or stone&amp;mdash;to build up their civilizations to get to 10 victory points and win the game; Setup includes randomly placing large hexagonal tiles (each showing a resource or the desert) in a honeycomb shape and surrounding them with water tiles, some of which contain ports of exchange. Number disks, which will correspond to die rolls (two 6-sided dice are used), are placed on each resource tile. Each player is given two settlements (think: houses) and roads (sticks) which are, in turn, placed on intersections and borders of the resource tiles. Players collect a hand of resource cards based on which hex tiles their last-placed house is adjacent to. A robber pawn is placed on the desert tile; A turn consists of possibly playing a development card, rolling the dice, everyone (perhaps) collecting resource cards based on the roll and position of houses (or upgraded cities&amp;mdash;think: hotels) unless a 7 is rolled, turning in resource cards (if possible and desired) for improvements, trading cards at a port, and trading resource cards with other players. If a 7 is rolled, the active player moves the robber to a new hex tile and steals resource cards from other players who have built structures adjacent to that tile; Points are accumulated by building settlements and cities, having the longest road and the largest army (from some of the development cards), and gathering certain development cards that simply award victory points. When a player has gathered 10 points (some of which may be held in secret), he announces his total and claims the win; Catan has won multiple awards and is one of the most popular games in recent history due to its amazing ability to appeal to experienced gamers as well as those new to the hobby; Die Siedler von Catan was originally published by KOSMOS and has gone through multiple editions. It was licensed by Mayfair and has undergone four editions as The Settlers of Catan. In 2015, it was formally renombred Catan to better represent itself as the core and base game of the Catan series. It has been re-published in two travel editions, portable edition and compact edition, as a special gallery edition (replaced in 2009 with a family edition), as an anniversary wooden edition, as a deluxe 3D collector's edition, in the basic Simply Catan, as a beginner version, and with an entirely new theme in Japan and Asia as Settlers of Catan: Rockman Edition. Numerous spin-offs and expansions have also been made for the game; </descripcion>
+		<anyo value="1995"/>
+		<minimo_jugadores value="3"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="60"/>
+		<tiempo_maximo value="120"/>
+		<edad_minima value="10"/>
+	</juego>
+
+	<juego type="boardgame" id="10">
+		<imagen>https://cf.geekdo-images.com/original/img/QSEaUq4_I2KoVDrF1FGNJ7eAINs=/0x0/pic3322613.jpg</imagen>
+		<nombre>Charterstone</nombre>
+		<descripcion>The prosperous Kingdom of Greengully, ruled for centuries by the Forever King, has issued a decree to its citizens to colonize the vast lands beyond its borders. In an effort to start a new village, the Forever King has selected six citizens for the task, each of whom has a unique set of skills they use to build their charter; In Charterstone, a competitive legacy game, you construct buildings and populate a shared village. Building stickers are permanently added to the game board and become action spaces for any player to use. Thus, you start off with simple choices and few workers, but soon you have a bustling village with dozens of possible actions; Your journey through Charterstone's many secrets will last twelve games, but it doesn&amp;rsquo;t end there. Your completed village will be a one-of-a-kind worker-placement game with plenty of variability; Charterstone released in the US/Canada on December 12, 2017 (the rest of the world received it slightly earlier); </descripcion>
+		<anyo value="2017"/>
+		<minimo_jugadores value="1"/>
+		<maximo_jugadores value="6"/>
+		<tiempo_minimo value="45"/>
+		<tiempo_maximo value="75"/>
+		<edad_minima value="14"/>
+	</juego>
+
+	<juego type="boardgame" id="10">
+		<imagen>https://cf.geekdo-images.com/original/img/_qm1FBu5oN7XcONKTjUR1fz7ja8=/0x0/pic3708878.jpg</imagen>
+		<nombre>Stuffed Fables</nombre>
+		<descripcion>The prosperous Kingdom of Greengully, ruled for centuries by the Forever King, has issued a decree to its citizens to colonize the vast lands beyond its borders. In an effort to start a new village, the Forever King has selected six citizens for the task, each of whom has a unique set of skills they use to build their charter; In Charterstone, a competitive legacy game, you construct buildings and populate a shared village. Building stickers are permanently added to the game board and become action spaces for any player to use. Thus, you start off with simple choices and few workers, but soon you have a bustling village with dozens of possible actions; Your journey through Charterstone's many secrets will last twelve games, but it doesn&amp;rsquo;t end there. Your completed village will be a one-of-a-kind worker-placement game with plenty of variability; Charterstone released in the US/Canada on December 12, 2017 (the rest of the world received it slightly earlier); </descripcion>
+		<anyo value="2018"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="45"/>
+		<tiempo_maximo value="90"/>
+		<edad_minima value="7"/>
+	</juego>
+
+	<juego type="boardgame" id="10">
+		<imagen>https://cf.geekdo-images.com/original/img/FpPrHXjhYhRQmhGAiHFX3-DFdtU=/0x0/pic1992476.jpg</imagen>
+		<nombre>Machi Koro</nombre>
+		<descripcion>The prosperous Kingdom of Greengully, ruled for centuries by the Forever King, has issued a decree to its citizens to colonize the vast lands beyond its borders. In an effort to start a new village, the Forever King has selected six citizens for the task, each of whom has a unique set of skills they use to build their charter; In Charterstone, a competitive legacy game, you construct buildings and populate a shared village. Building stickers are permanently added to the game board and become action spaces for any player to use. Thus, you start off with simple choices and few workers, but soon you have a bustling village with dozens of possible actions; Your journey through Charterstone's many secrets will last twelve games, but it doesn&amp;rsquo;t end there. Your completed village will be a one-of-a-kind worker-placement game with plenty of variability; Charterstone released in the US/Canada on December 12, 2017 (the rest of the world received it slightly earlier); </descripcion>
+		<anyo value="2012"/>
+		<minimo_jugadores value="2"/>
+		<maximo_jugadores value="4"/>
+		<tiempo_minimo value="45"/>
+		<tiempo_maximo value="30"/>
+		<edad_minima value="10"/>
+	</juego>
+
+</juegos>

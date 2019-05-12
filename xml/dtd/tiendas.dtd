@@ -1,0 +1,6 @@
+<!ELEMENT tiendas (tienda+)>
+<!ELEMENT tienda (nombre, direccion+, telefono, web)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT web (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
