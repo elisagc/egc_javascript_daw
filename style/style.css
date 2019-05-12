@@ -275,7 +275,7 @@ font-family: nunito;
 list-style: none;
 }
 .formulario-contacto{
-	max-width:600px;
+	width:600px;
 	color:white;
 }
 .col-form-label{
