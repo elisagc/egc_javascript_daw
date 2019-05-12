@@ -5,7 +5,7 @@ audio.style.visibility="hidden";
 boton.addEventListener("click",mensaje); 
 
 function mensaje(){
-    window.confirm("El formulario ha sido enviado, ¡GRACIAS! Te regalamos una canción, dale al play y... ¡Disfrútala!");
+    window.confirm("Gracias por contactar con nosotros ¡Disfruta la canción!");
     audio.style.visibility="visible";
    
 }
