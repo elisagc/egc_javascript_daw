@@ -46,7 +46,7 @@ A continuación, se resumen los elementos introducidos en cada página:
 - Un text area. 
 - Un botón de enviar.
 - Al hacer click en el botón de enviar, se activa la función "mensaje" de JavaScript que visualiza un mensaje "confirm" indicando al usuario que el mensaje se ha enviado correctamente.
-- También se activa una etiqueta audio que estaba oculta, permitiendo al usuario escuchar una canción.
+- También se activa la función "música" que reproduce una canción de fondo.
 
 Nota:
 
