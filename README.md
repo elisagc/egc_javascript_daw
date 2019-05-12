@@ -1,7 +1,6 @@
 Proyecto final realizado para el módulo de Lenguaje de Marcas con HTML, CSS y JavaScript.
 
-Se ha intentado que toda la página web sea visible correctamente tanto en dispositivos de sobremesa como en dispositivos móviles.
-Excepto el menú de navegación, el resto de la web es completamente responsive (se redimensiona según el dispositivo en el que la estemos visualizando).
+Enlace: https://elisagc.github.io/proyecto_marcas_1DAW/
 
 A continuación, se resumen los elementos introducidos en cada página:
 
@@ -47,3 +46,8 @@ A continuación, se resumen los elementos introducidos en cada página:
 - Un text area. 
 - Un botón de enviar.
 - Al hacer click en el botón de enviar, se activa la función "mensaje" de JavaScript que visualiza un mensaje "confirm" indicando al usuario que el mensaje se ha enviado correctamente.
+
+Nota:
+
+Se ha intentado que toda la página web sea visible correctamente tanto en dispositivos de sobremesa como en dispositivos móviles.
+Excepto el menú de navegación, el resto de la web es completamente responsive (se redimensiona según el dispositivo en el que la estemos visualizando).
