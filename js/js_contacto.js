@@ -7,7 +7,7 @@ function mensaje(){
 }
 
 function musica(){
-    var audio = new Audio('../img/sonido2.mp3');
+    var audio = new Audio('../img/musica3.mp3');
 	audio.play();
 }
 
