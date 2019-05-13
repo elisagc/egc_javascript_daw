@@ -300,13 +300,14 @@ list-style: none;
 
 .enlace{
 	text-decoration: none;
-	padding: 10px;
+	padding: 20px;
+	font-size: 18px;
 	font-family: nunito;
 	color: aliceblue;
 }
 
 .enlace:hover{
-	color: rgba(156, 18, 122, 0.678);
+	color: #420639d4;
 }
 
 .section_tutoriales{
