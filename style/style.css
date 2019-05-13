@@ -329,7 +329,12 @@ list-style: none;
 }
 
 .foto-videos{
+	padding: 30px;
+	transition: all .5s ease-in-out;
+}
 
+.foto-videos:hover{
+	transform: scale(1.1);
 }
 
 /* EMPIEZA EL MODAL*/
