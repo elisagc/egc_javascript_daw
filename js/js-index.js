@@ -104,13 +104,3 @@ parrafo[3].innerHTML="Duración de la partida: " +json.juegos.juego[element-10].
 parrafo[4].innerHTML="Edad: " + json.juegos.juego[element-10].edad + " años o más";
 
 }
-
-
-// SONIDO
-
-var sonido="../img/sonido.mp3";
-var audio ='<embed id="musica" src="'+sonido+'" autoplay="false" type="audio/mpeg" enablejavascript="true"></embed>';
-
-
-
-
